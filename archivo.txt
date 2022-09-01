@@ -1,1 +1,7 @@
 Esta es una carpeta nueva llamada archivo.txt
+-
+
+Esta es otra nueva linea
+Esta es la tercera linea nueva
+La segunda linea se borró
+ESta linea se agregó
