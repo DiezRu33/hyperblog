@@ -1,0 +1,55 @@
+commit f585f2370622cc07acc1b1d9cb97381ae68a44f8
+Author: DiezRu33 <diegoruffa@hotmail.com>
+Date:   Thu Sep 1 17:50:50 2022 -0300
+
+    Se modificaron las lineas del archivo.txt
+
+commit 0b82ff7c3a2f6533f3f2e5309d061244d908fcb9
+Author: DiezRu33 <diegoruffa@hotmail.com>
+Date:   Thu Sep 1 17:44:26 2022 -0300
+
+    Este es un nuevo comentario para el nuevo archivo
+
+commit 48a3f36d3267f2793b1c8e0088b047af3d766260
+Author: DiezRu33 <diegoruffa@hotmail.com>
+Date:   Thu Sep 1 17:26:04 2022 -0300
+
+    Reemplazo de una version por otra de la historia
+
+commit eeea29e2627b53ba8f8747e0b00253bd15de4f01
+Author: DiezRu33 <diegoruffa@hotmail.com>
+Date:   Thu Sep 1 17:23:06 2022 -0300
+
+    Cambio de mascota
+
+commit 81b3fbb95a2e6a015694db7c9d6c63374ea23b99
+Author: DiezRu33 <diegoruffa@hotmail.com>
+Date:   Thu Sep 1 17:20:35 2022 -0300
+
+    Cambio de maestria
+
+commit 2ca760012037b5a9fc11a61d163691b8a4cea7ed
+Author: DiezRu33 <diegoruffa@hotmail.com>
+Date:   Thu Sep 1 17:18:53 2022 -0300
+
+    Arranco mi proyecto real con HTML y CSS
+
+commit d2662de9c748c76c5c2706f8c1f7386d8a9bb796
+Author: DiezRu33 <diegoruffa@hotmail.com>
+Date:   Thu Sep 1 16:47:15 2022 -0300
+
+    Este es un nuevo comentario del commit
+    
+    Este es otro mensaje del commit
+
+commit e520103edfa06cf56dff0ad00bca981bf09dd628
+Author: DiezRu33 <diegoruffa@hotmail.com>
+Date:   Thu Sep 1 16:39:30 2022 -0300
+
+    Cambios al archivo de Historia para reflejar la historia completa
+
+commit 25adf20c752294b771c24de7557e50a433d81ffe
+Author: DiezRu33 <diegoruffa@hotmail.com>
+Date:   Thu Sep 1 16:33:37 2022 -0300
+
+    Este es un commit de la Historia
